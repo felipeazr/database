@@ -23,3 +23,6 @@
 | `time`                    | `java.sql.Time`     | Hora (sem data)                                             |
 | `interval`                | `java.time.Duration`| Período de tempo (dias, meses, anos)                        |
 | `uuid`                    | `java.util.UUID`    | Identificadores únicos universais (UUID)                    |
+
+
+# Tipos de consulta de dados 
