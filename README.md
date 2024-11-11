@@ -26,3 +26,5 @@
 
 
 # Tipos de consulta de dados 
+teste
+## DML DTL DQL DCL
