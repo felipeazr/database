@@ -1,6 +1,6 @@
 
-
-# Tipos de Consulta de Dados
+# Database
+## Tipos de Consulta de Dados
 
 Existem cinco tipos principais de linguagens SQL, cada uma com uma finalidade específica. Abaixo, uma descrição detalhada de cada uma:
 
@@ -56,8 +56,8 @@ A "C" em DCL vem de **Controle**. Esses comandos são usados para controlar o ac
 
 ---
 
-# Database
-## Tipos primitivos PostgreSQL vs Java
+
+# Tipos primitivos PostgreSQL vs Java
 
 | Tipo Primitivo PostgreSQL | Tipo Primitivo Java | Descrição                                                  |
 |---------------------------|---------------------|------------------------------------------------------------|
